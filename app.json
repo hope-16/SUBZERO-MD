@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "SUBZERO-MD;;;WYsVzK7C#H4mBc4ng0_zQvGhb2T1f5dmNxPgEfOSm8_VpBPDXchQ",
       "required": true,
-      "value": ""
+      "value": "**"
     }
   },
   "buildpacks": [
