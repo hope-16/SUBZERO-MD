@@ -1,7 +1,7 @@
 {
-  "name": "SUBZERO-MD",
+  "name": "Mc Reagan",
   "version": "5.0.1",
-  "description": "WhatsApp Bot created By Darrell Mucheri.",
+  "description": "WhatsApp Bot created by Mc Reagan",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SUBZERO-MD",
